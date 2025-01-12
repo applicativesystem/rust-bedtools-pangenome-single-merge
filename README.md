@@ -1,7 +1,8 @@
 # rust-bedtools-pangenome-single-merge
  
  - rust bedtools single merge pangenome
- - it uses a two tuple based approach which avoid quadratic cost. 
+ - it uses a two tuple based approach which avoid quadratic cost.
+ - Incase of Golang and RUST, please see the last commit message and if it says compiled binary then it is completed or else still in development version.
  
  ```
  cargo build
